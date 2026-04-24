@@ -122,6 +122,21 @@ If you use AEV-PLIG in your research, please cite the following paper:
 }
 ```
 
+If you use `AEV-PLIG-refined` in your research, please cite the following paper:
+```
+@article{hsu2025can,
+  title={Can AI-predicted complexes teach machine learning to compute drug binding affinity?},
+  author={Hsu, Wei-Tse and Grevtsev, Savva and Herz, Anna M and Douglas, Thomas and Magarkar, Aniket and Biggin, Philip C},
+  journal={Journal of Chemical Information and Modeling},
+  volume={65},
+  number={24},
+  pages={13051--13056},
+  year={2025},
+  publisher={ACS Publications}
+}
+```
+
+
 ## Authors
 Note that this project is based on [this repo](https://github.com/isakvals/AEV-PLIG). The authors of the changes made upon the original repo include:
 - Wei-Tse Hsu, University of Oxford (wei-tse.hsu@bioch.ox.ac.uk)
